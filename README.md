@@ -66,3 +66,11 @@ In this one-person show, I'll be wearing many hats. Here's a breakdown of the ke
 ### The Stage is Set
 
 With the roles defined and the curtain about to rise, I'm eager to embark on this adventure. I'll be documenting my progress, challenges, and learnings along the way.  Join me as I navigate the exciting world of Kubernetes and microservices, one role at a time, one cup of coffee at a time!
+
+### Documentation
+
+- [Product Vision](docs/product_vision.md)
+- [Product Roadmap](./roadmap.md)
+- [Product Architecture](docs/product_architecture.md)
+- [User Stories](./user_stories.md)
+- [Daily Log](./daily_log.md)
